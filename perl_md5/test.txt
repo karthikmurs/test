@@ -1,0 +1,5 @@
+.:
+total 3
+-rwx------+ 1 c_kmahen Domain Users 380 May 10 13:54 md5.pl
+-rwx------+ 1 c_kmahen Domain Users   6 May 10 12:44 v1.txt
+-rwx------+ 1 c_kmahen Domain Users   6 May 10 12:43 v2.txt

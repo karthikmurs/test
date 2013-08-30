@@ -1,0 +1,44 @@
+======================================================
+Measuring boot time of 1000 iterations of reboot
+======================================================
+
+Iteration 1 - Reboot Time = 28.202 s
+Iteration 2 - Reboot Time = 30.457 s
+Iteration 3 - Reboot Time = 28.634 s
+Iteration 4 - Reboot Time = 28.020 s
+Iteration 5 - Reboot Time = 28.912 s
+Iteration 6 - Reboot Time = 28.129 s
+Iteration 7 - Reboot Time = 29.508 s
+Iteration 8 - Reboot Time = 29.538 s
+Iteration 9 - Reboot Time = 27.765 s
+Iteration 10 - Reboot Time = 28.175 s
+Iteration 11 - Reboot Time = 28.974 s
+Iteration 12 - Reboot Time = 28.021 s
+Iteration 13 - Reboot Time = 30.410 s
+Iteration 14 - Reboot Time = 28.594 s
+Iteration 15 - Reboot Time = 27.947 s
+Iteration 16 - Reboot Time = 27.954 s
+Iteration 17 - Reboot Time = 29.174 s
+Iteration 18 - Reboot Time = 27.788 s
+Iteration 19 - Reboot Time = 28.296 s
+Iteration 20 - Reboot Time = 28.934 s
+Iteration 21 - Reboot Time = 30.163 s
+Iteration 22 - Reboot Time = 28.737 s
+Iteration 23 - Reboot Time = 28.047 s
+Iteration 24 - Reboot Time = 29.104 s
+Iteration 25 - Reboot Time = 27.829 s
+Iteration 26 - Reboot Time = 28.017 s
+Iteration 27 - Reboot Time = 30.517 s
+Iteration 28 - Reboot Time = 28.548 s
+Iteration 29 - Reboot Time = 30.486 s
+Iteration 30 - Reboot Time = 31.028 s
+Iteration 31 - Reboot Time = 28.442 s
+Iteration 32 - Reboot Time = 28.037 s
+Iteration 33 - Reboot Time = 29.139 s
+Iteration 34 - Reboot Time = 30.658 s
+Iteration 35 - Reboot Time = 30.705 s
+Iteration 36 - Reboot Time = 28.560 s
+Iteration 37 - Reboot Time = 29.043 s
+Iteration 38 - Reboot Time = 30.254 s
+Iteration 39 - Reboot Time = 28.309 s
+Iteration 40 - Reboot Time = 30.945 s
